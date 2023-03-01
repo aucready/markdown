@@ -124,7 +124,7 @@ target="_blank">NAVER</a>
 
 ---
 
-<img width="70" src="http://img.danawa.com/new/tour/img/logo/sns_danawa.jpg" alt="herophy" />
+<img width="70" src="http://img.danawa.com/new/tour/img/logo/sns_danawa.jpg" alt="danawa" />
 
 
 
